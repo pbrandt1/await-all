@@ -4,7 +4,7 @@
 npm install await-all
 ```
 
-```
+```js
 const all = require('await-all')
 
 async function tests () {
