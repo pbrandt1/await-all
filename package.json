@@ -1,0 +1,9 @@
+{
+  "name": "await-all",
+  "version": "1.0.0",
+  "description": "an upgrade on Promise.all, no dependencies",
+  "main": "index.js",
+  "repository": "git@github.com:pbrandt1/await-all.git",
+  "author": "pbrandt1 <peter.m.brandt@gmail.com>",
+  "license": "MIT"
+}
